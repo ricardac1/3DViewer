@@ -10,9 +10,8 @@
 ### **Color**
 ![color](https://imgur.com/a/y12Yfu2)
 
-
 ### **Affin Transformations**
-![alt text](misc/affine.gif)
+
 
 ## **What this app can do**
 ![alt text](misc/1.png)
