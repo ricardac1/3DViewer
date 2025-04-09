@@ -8,7 +8,7 @@
 **This project displays an object file with more than 10 million edges and vertices with a latency of less than 0.5 seconds**
 
 ### **Color**
-![alt text](misc/color.gif)
+![alt text](https://imgur.com/a/y12Yfu2)
 
 
 ### **Affin Transformations**
